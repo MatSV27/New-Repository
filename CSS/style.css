@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: pink;
+    color:brown;
+}
+.heada{
+    background-color: yellow;
+    color: black;
+    margin: 0;
+    padding: 1em;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1em;
+    font-family:'Times New Roman', Times, serif ;
+    box-shadow: 0px 5px 30px 0px darkmagenta;
+}
+.heada .tag_line{
+    color: green;
+    padding: 0 0 0 4cm;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+.container{
+    width: 70%;
+    padding: 0;
+    text-align: center;
+    border: 2px solid green;
+    border-radius: 10px;
+    margin: 0 auto;
+    box-shadow: 0px 5px 30px 0px black;
+}
+.container h1{
+    font-size: 20px;
+    color: blue;
+}
